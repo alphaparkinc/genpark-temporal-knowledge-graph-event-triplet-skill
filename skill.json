@@ -1,0 +1,15 @@
+{
+  "name": "genpark-temporal-knowledge-graph-event-triplet-skill",
+  "version": "1.0.0",
+  "description": "Temporal knowledge graph store indexing event triplets with point-in-time interval querying and chronological history traversal.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "temporal-knowledge-graph",
+    "event-triplets",
+    "interval-algebra",
+    "agent-memory",
+    "point-in-time"
+  ]
+}
